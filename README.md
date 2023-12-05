@@ -14,11 +14,11 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sliderer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sliderer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sliderer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sliderer&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sliderer&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sliderer&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sliderer&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sliderer&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sliderer&theme=nord_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sliderer&theme=nord_dark)
 
 <!--
 **Sliderer/Sliderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
