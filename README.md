@@ -18,19 +18,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sliderer&langs_count=10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 Карточка профиля: 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sliderer&theme=solarized_dark)
 
 Статистика языков в коммитах:
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sliderer&theme=solarized_dark)
 
 Статистика языков в репозиториях:
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sliderer&theme=solarized_dark)
 
 Статистика профиля:
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sliderer&theme=solarized_dark)
 
 Данные по коммитам за сутки:
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sliderer&theme=solarized_dark)
 
 <!--
 **Sliderer/Sliderer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
