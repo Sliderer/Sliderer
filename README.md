@@ -13,23 +13,11 @@
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
- 
-![SLIDERER's GitHub stats](https://github-readme-stats.vercel.app/api/?username=sliderer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sliderer&langs_count=10&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-Карточка профиля: 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sliderer&theme=solarized_dark)
-
-Статистика языков в коммитах:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sliderer&theme=solarized_dark)
-
-Статистика языков в репозиториях:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sliderer&theme=solarized_dark)
-
-Статистика профиля:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sliderer&theme=solarized_dark)
-
-Данные по коммитам за сутки:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sliderer&theme=solarized_dark)
 
 <!--
