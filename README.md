@@ -14,12 +14,14 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-<div>
+<div >
+  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sliderer&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sliderer&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sliderer&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sliderer&theme=nord_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sliderer&theme=nord_dark)
+
 </div>
 
 
