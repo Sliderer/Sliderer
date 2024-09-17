@@ -17,7 +17,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
 ### Dev in <a href="https://github.com/C-blings">C-blings</a> 
-### Ex C++ intern in Yandex 
+### Ex C++ intern in Yandex (Ads and Fintech infra)
 
 
   
